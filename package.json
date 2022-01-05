@@ -1,0 +1,20 @@
+{
+  "name": "rj-framework",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robby Juniardi",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "cors": "^2.8.5",
+    "esm": "^3.2.25",
+    "express": "^4.17.2",
+    "mssql": "^7.3.0",
+    "prettier": "^2.5.1"
+  }
+}
