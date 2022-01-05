@@ -1,9 +1,9 @@
 export const settings = {
   database: {
-    user: "it_dev",
-    password: "hanya1Tyangtahu",
-    server: "13.251.18.167",
-    database: "SIMANDE_LIVE",
+    user: "",
+    password: "",
+    server: "",
+    database: "",
     options: {
       trustServerCertificate: true,
     },
